@@ -6,6 +6,10 @@ Since 2015 I've grown fond of motor racing. I started watching [Formula 1](https
 
 In 2018 I discovered I liked traveling ✈️ and hiking 🥾, like a lot! Since then I've been planning a lot of trips all around the world 🌎. Check my [Polarsteps](http://steps.onwolff.nl) for my adventures.
 
+[![Shield: Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/dickw0lff)
+
+
+
 <!--
 **dickwolff/dickwolff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
