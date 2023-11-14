@@ -1,4 +1,4 @@
-### Hi, my name is Dick Wolff 🐺.
+# Hi, my name is Dick Wolff 🐺.
 
 I'm a (full stack) software engineer and IT architect 👨🏻‍💻 currently working at [Info Support](https://infosupport.com). My passion is front-end development (the touchy-feely stuff), but I also like to do backend development to shake things up. 
 
@@ -8,6 +8,11 @@ In 2018 I discovered I liked traveling ✈️ and hiking 🥾, like a lot! Since
 
 [![Shield: Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/dickw0lff)
 
+## Certifications
+
+![January 6, 2021](/img/az-900.png) ![November 14, 2023](/img/az-204.png)
+
+![September 5, 2023](/img/psm1.png) ![September 9, 2023](/img/pspo1.png)
 
 
 <!--
