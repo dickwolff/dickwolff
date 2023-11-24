@@ -12,7 +12,7 @@ In 2018 I discovered I liked traveling ✈️ and hiking 🥾, like a lot! Since
 
 [![January 6, 2021](/img/az-900.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/C21C3C791CF682D2?sharingId=1A0C846437215B22) [![November 14, 2023](/img/az-204.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/89D1A34C9E1FF89C?sharingId=1A0C846437215B22)
 
-[![September 5, 2023](/img/psm1.png)](https://www.credly.com/earner/earned/share/05720351-9f6f-46c4-bdda-9d0eb6fd4a53) [![September 9, 2023](/img/pspo1.png)](https://www.credly.com/earner/earned/share/b8a7f76b-46a1-4f20-ba14-1cd704a88438)
+[![September 5, 2023](/img/psm1.png)](https://www.credly.com/earner/earned/share/05720351-9f6f-46c4-bdda-9d0eb6fd4a53) [![September 9, 2023](/img/pspo1.png)](https://www.credly.com/earner/earned/share/b8a7f76b-46a1-4f20-ba14-1cd704a88438) [![November 24, 2023](/img/psd1.png)](https://www.credly.com/earner/earned/share/5613f069-daa8-4e13-8b3a-1e216f5d2b9b) 
 
 
 <!--
