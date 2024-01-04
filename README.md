@@ -6,8 +6,8 @@ Since 2015 I've grown fond of motor racing. I started watching [Formula 1](https
 
 In 2018 I discovered I liked traveling ✈️ and hiking 🥾, like a lot! Since then I've been planning trips all around the world 🌎.
 
-[![Shield: Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/dickw0lff) [![GitHub Sponsors](https://img.shields.io/github/sponsors/dickwolff?label=Sponsor%20me)](https://github.com/sponsors/dickwolff)
-
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dickw0lff) &nbsp;
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/dickwolff) 
 
 ## Certifications
 
