@@ -11,7 +11,7 @@ In 2018 I discovered I liked traveling ✈️ and hiking 🥾, like a lot! Since
 
 ## Certifications
 
-[![January 6, 2021](/img/az-900.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/C21C3C791CF682D2?sharingId=1A0C846437215B22) [![March 11, 2024](/img/ai-900.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/337411E3DDFC1AA6?sharingId=1A0C846437215B22) [![March 21, 2024](/img/sc-900.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/) \
+[![January 6, 2021](/img/az-900.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/C21C3C791CF682D2?sharingId=1A0C846437215B22) [![March 21, 2024](/img/sc-900.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/70B6FDDCE06CA0EA?sharingId=1A0C846437215B22) [![March 11, 2024](/img/ai-900.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/337411E3DDFC1AA6?sharingId=1A0C846437215B22) \
 [![November 14, 2023](/img/az-204.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/89D1A34C9E1FF89C?sharingId=1A0C846437215B22) [![January 4, 2024](/img/az-400.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/44A43B9FAF16EC49?sharingId=1A0C846437215B22)
 
 [![September 5, 2023](/img/psm1.png)](https://www.credly.com/badges/05720351-9f6f-46c4-bdda-9d0eb6fd4a53/public_url) 
