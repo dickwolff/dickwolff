@@ -1,4 +1,6 @@
-<img src="./img/dw.png" width="110" height="110" alt="Dick Wolff"/>
+<div style="width: 100%; display: flex; justify-content: center; align-items: center">
+  <img src="./img/dw.png" width="110" height="110" alt="Dick Wolff"/>
+</div>
 
 # Hi, my name is Dick Wolff 🐺.
 
