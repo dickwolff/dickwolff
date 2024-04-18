@@ -1,4 +1,4 @@
-![Dick Wolff](./img//dw.png | width=110)
+<img src="./img/dw.png" width="110" height="110" alt="Dick Wolff"/>
 
 # Hi, my name is Dick Wolff 🐺.
 
