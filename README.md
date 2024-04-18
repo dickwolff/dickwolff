@@ -1,3 +1,5 @@
+![Dick Wolff](./img//dw.png | width=110)
+
 # Hi, my name is Dick Wolff 🐺.
 
 I'm a (full stack) software engineer and IT architect 👨🏻‍💻 currently working at [Info Support](https://infosupport.com). My passion is front-end development (the touchy-feely stuff), but I also like to do backend development to shake things up. 
