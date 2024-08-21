@@ -21,7 +21,8 @@ In 2018 I discovered I liked traveling ✈️ and hiking 🥾, like a lot! Since
 [![June 10, 2024](/img/pal1.png)](https://www.credly.com/badges/318b7c8c-493e-46f8-93b6-d362d868196e/public_url) 
 [![August 25, 2024](/img/pal-ebm.png)](https://www.credly.com/badges/5aab2a44-a28c-4efe-9a55-fec8e12ec3e6/public_url)
 [![November 24, 2023](/img/psd1.png)](https://www.credly.com/badges/5613f069-daa8-4e13-8b3a-1e216f5d2b9b/public_url) 
-[![November 30, 2023](/img/psk1.png)](https://www.credly.com/badges/66a8281f-7ab7-44d4-8ee1-69f295b042cc/public_url)
+[![November 30, 2023](/img/psk1.png)](https://www.credly.com/badges/66a8281f-7ab7-44d4-8ee1-69f295b042cc/public_url) 
+[![August 21, 2024](/img/psu1.png)](https://www.credly.com/badges/e37b544e-70d7-4da6-9795-308a7b183f26/public_url) 
 
 <!--
 **dickwolff/dickwolff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
