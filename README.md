@@ -17,6 +17,7 @@ In 2018 I discovered I liked traveling ✈️ and hiking 🥾, like a lot! Since
 [![November 14, 2023](/img/az-204.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/89D1A34C9E1FF89C?sharingId=1A0C846437215B22) [![January 4, 2024](/img/az-400.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/44A43B9FAF16EC49?sharingId=1A0C846437215B22)
 
 [![September 5, 2023](/img/psm1.png)](https://www.credly.com/badges/05720351-9f6f-46c4-bdda-9d0eb6fd4a53/public_url) 
+[![August 22, 2024](/img/psm2.png)](https://www.credly.com/badges/c2c2807f-8050-4b05-995d-ce72dc0a1257/public_url) 
 [![September 9, 2023](/img/pspo1.png)](https://www.credly.com/badges/b8a7f76b-46a1-4f20-ba14-1cd704a88438/public_url)
 [![June 10, 2024](/img/pal1.png)](https://www.credly.com/badges/318b7c8c-493e-46f8-93b6-d362d868196e/public_url) 
 [![August 25, 2024](/img/pal-ebm.png)](https://www.credly.com/badges/5aab2a44-a28c-4efe-9a55-fec8e12ec3e6/public_url)
