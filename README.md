@@ -15,7 +15,7 @@ In 2023 I started working on open source projects, releasing my own tools [Expor
 
 ## GitHub Stats
 
-[![GitHub stats](https://dickwolff-github-stats.vercel.app/api?username=dickwolff&show_icons=true&theme=github_dark)](https://github.com/dickwolff)
+[![GitHub stats](https://dickwolff-github-stats.vercel.app/api?username=dickwolff&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/dickwolff)
 
 ## Certifications
 
