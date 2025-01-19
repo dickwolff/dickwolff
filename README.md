@@ -30,7 +30,7 @@ In 2023 I started working on open source projects, releasing my own tools [Expor
 
 ## GitHub stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dickwolff)](https://github.com/dickwolff)
+[![GitHub stats](https://dickwolff-github-stats.vercel.app/api?username=dickwolff)](https://github.com/dickwolff)
 <!--
 **dickwolff/dickwolff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
