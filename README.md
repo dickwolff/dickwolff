@@ -28,6 +28,9 @@ In 2023 I started working on open source projects, releasing my own tools [Expor
 [![August 21, 2024](/img/psu1.png)](https://www.credly.com/badges/e37b544e-70d7-4da6-9795-308a7b183f26/public_url) 
 [![October 16, 2024](/img/pspbm.png)](https://www.credly.com/badges/144c993d-788a-4cce-a84b-f7873856b5b0/public_url) 
 
+## GitHub stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dickwolff)](https://github.com/dickwolff)
 <!--
 **dickwolff/dickwolff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
