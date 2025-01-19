@@ -13,6 +13,10 @@ In 2023 I started working on open source projects, releasing my own tools [Expor
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/dickwolff) &nbsp;
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dickw0lff)
 
+## GitHub Stats
+
+[![GitHub stats](https://dickwolff-github-stats.vercel.app/api?username=dickwolff&show_icons=true&theme=github_dark)](https://github.com/dickwolff)
+
 ## Certifications
 
 [![January 6, 2021](/img/az-900.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/C21C3C791CF682D2?sharingId=1A0C846437215B22) [![March 21, 2024](/img/sc-900.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/70B6FDDCE06CA0EA?sharingId=1A0C846437215B22) [![March 11, 2024](/img/ai-900.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/337411E3DDFC1AA6?sharingId=1A0C846437215B22) \
@@ -28,9 +32,6 @@ In 2023 I started working on open source projects, releasing my own tools [Expor
 [![August 21, 2024](/img/psu1.png)](https://www.credly.com/badges/e37b544e-70d7-4da6-9795-308a7b183f26/public_url) 
 [![October 16, 2024](/img/pspbm.png)](https://www.credly.com/badges/144c993d-788a-4cce-a84b-f7873856b5b0/public_url) 
 
-## GitHub stats
-
-[![GitHub stats](https://dickwolff-github-stats.vercel.app/api?username=dickwolff)](https://github.com/dickwolff)
 <!--
 **dickwolff/dickwolff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
