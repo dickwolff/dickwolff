@@ -22,6 +22,8 @@ In 2023 I started working on open source projects, releasing my own tools [Expor
 [![January 6, 2021](/img/az-900.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/C21C3C791CF682D2?sharingId=1A0C846437215B22) [![March 21, 2024](/img/sc-900.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/70B6FDDCE06CA0EA?sharingId=1A0C846437215B22) [![March 11, 2024](/img/ai-900.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/337411E3DDFC1AA6?sharingId=1A0C846437215B22) \
 [![November 14, 2023](/img/az-204.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/89D1A34C9E1FF89C?sharingId=1A0C846437215B22) [![January 4, 2024](/img/az-400.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickw0lff/44A43B9FAF16EC49?sharingId=1A0C846437215B22)
 
+[![July 17, 2025](/img/gh-300.png)](https://learn.microsoft.com/api/credentials/share/en-us/dickwolff/3FE1182C940DD4CC?sharingId=1A0C846437215B22)
+
 [![September 5, 2023](/img/psm1.png)](https://www.credly.com/badges/05720351-9f6f-46c4-bdda-9d0eb6fd4a53/public_url) 
 [![August 22, 2024](/img/psm2.png)](https://www.credly.com/badges/c2c2807f-8050-4b05-995d-ce72dc0a1257/public_url) 
 [![September 9, 2023](/img/pspo1.png)](https://www.credly.com/badges/b8a7f76b-46a1-4f20-ba14-1cd704a88438/public_url)
